@@ -2,7 +2,7 @@
 
 API + เว็บสร้าง **PromptPay Fix Amount QR** ฟรี
 
-**License:** [MIT](./LICENSE)
+**License:** [MIT](https://github.com/ChavaphonBoonchan/fix-promptpay-thai-qr/blob/master/LICENSE)
 
 - **โดเมน:** https://qr.9zahub.com
 - **ไลบรารี:** [promptparse](https://github.com/maythiwat/promptparse)
